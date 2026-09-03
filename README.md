@@ -6,7 +6,7 @@ An interactive HR Workforce Analytics Dashboard developed using Power BI, DAX, a
 
 The dashboard transforms workforce data into meaningful HR insights to support workforce planning, management reporting, and data-driven decision-making.
 
-**Objectives:**
+# Objectives:
 
 Monitor overall workforce headcount
 Analyze Saudi vs. Non-Saudi employees
