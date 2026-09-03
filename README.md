@@ -7,34 +7,37 @@ The dashboard transforms workforce data into meaningful HR insights to support w
 
 # Objectives:
 
-Monitor overall workforce headcount
-Analyze Saudi vs. Non-Saudi employees
-Analyze workforce distribution by department and location
-Monitor employee demographics
-Track open vacancies
-Analyze salary distribution
-Provide interactive HR reporting through dynamic filters
+- Monitor overall workforce headcount
+- Analyze Saudi vs. Non-Saudi employees
+- Analyze workforce distribution by department and location
+- Monitor employee demographics
+- Track open vacancies
+- Analyze salary distribution
+- Provide interactive HR reporting through dynamic filters
+
 # Tools & Technologies:
 
-Microsoft Excel
-Power BI
-DAX
-Data Visualization
-HR Analytics
+- Microsoft Excel
+- Power BI
+- DAX
+- Data Visualization
+- HR Analytics
+
 # Key Features:
 
-Total Employee Headcount
-Saudi vs. Non-Saudi Analysis
-Department Analysis
-Location Analysis
-Employee Demographics
-Vacancy Analysis
-Salary Analysis
-Dynamic KPI Cards
-Interactive Slicers
-Map Visualization
-Clear Filters Button
-#Dashboard Preview
+- Total Employee Headcount
+- Saudi vs. Non-Saudi Analysis
+- Department Analysis
+- Location Analysis
+- Employee Demographics
+- Vacancy Analysis
+- Salary Analysis
+- Dynamic KPI Cards
+- Interactive Slicers
+- Map Visualization
+- Clear Filters Button
+
+# Dashboard Preview
 <img width="1315" height="747" alt="image" src="https://github.com/user-attachments/assets/ff24c30c-98bb-40bb-b06b-a9dad53e87bb" />
 
-#Dashboard Overview
+# Dashboard Overview
