@@ -1,6 +1,5 @@
 # HR-Workforce-Analytics-Dashboard
 # Project Overview:
-An interactive HR Workforce Analytics Dashboard developed using Power BI, DAX, and Excel.  The dashboard transforms workforce data into meaningful HR insights to support workforce planning, management reporting, and data-driven decision-making.
 
 An interactive HR Workforce Analytics Dashboard developed using Power BI, DAX, and Excel.
 
@@ -15,7 +14,6 @@ Monitor employee demographics
 Track open vacancies
 Analyze salary distribution
 Provide interactive HR reporting through dynamic filters
-
 # Tools & Technologies:
 
 Microsoft Excel
@@ -23,7 +21,6 @@ Power BI
 DAX
 Data Visualization
 HR Analytics
-
 # Key Features:
 
 Total Employee Headcount
@@ -37,5 +34,7 @@ Dynamic KPI Cards
 Interactive Slicers
 Map Visualization
 Clear Filters Button
+#Dashboard Preview
+<img width="1315" height="747" alt="image" src="https://github.com/user-attachments/assets/ff24c30c-98bb-40bb-b06b-a9dad53e87bb" />
 
-# Dashboard Preview
+#Dashboard Overview
